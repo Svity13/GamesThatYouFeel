@@ -25,21 +25,16 @@ No video is shown, saved or sent anywhere.
 
 ## Logged data and analysis
 Each run saves a CSV (path shown at the end of the game; on macOS under
-~/Library/Application Support/Godot/app_userdata/). Anonymised logs are in `data/`.
-[Explain how to reproduce the analysis, for example `python3 analysis/analyse.py`]
-Example output: [paste a few lines of a real log]
+~/Library/Application Support/Godot/app_userdata/).
 
 ## What is simulated / limits
 The emotion estimate is a simple rule on facial expression scores, not a true reading of feelings,
 and it is often wrong. The story is short and scripted.
 
 ## AI use
-Code was written with help from Claude (Anthropic): [list which files and parts].
+Code was written with help from Claude (Anthropic)
 Team members can explain the code they committed.
 
-## Team
-[names and roles]
-=======
 # NavigatingWithoutSightHCI
 Group Project for the Human Computer Interaction
 
