@@ -1,0 +1,8 @@
+.godot/
+venv/
+__pycache__/
+face_landmarker.task
+*.mp4
+*.mov
+*.jpg
+*.png
