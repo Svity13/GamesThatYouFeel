@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Games That Feel You: Emotion-Aware Interrogation Game
 
 A short story game where a detective reacts to your webcam-estimated emotion
@@ -39,3 +40,8 @@ Team members can explain the code they committed.
 
 ## Team
 [names and roles]
+=======
+# NavigatingWithoutSightHCI
+Group Project for the Human Computer Interaction
+
+>>>>>>> 46f273ffc065dae478cc5c2d745a92b3e4e7cdce
