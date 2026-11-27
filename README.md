@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Games That Feel You: Emotion-Aware Interrogation Game
 
 A short story game where a detective reacts to your webcam-estimated emotion
