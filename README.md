@@ -8,7 +8,7 @@ A = buttons only, B = hidden sensing, C = open sensing (you can see, correct and
 - Godot 4.3 or newer (standard version, not .NET): https://godotengine.org
 - Python 3.10 to 3.12
 - A webcam (not needed for condition A)
-- Tested on: Ubuntu lab computer [add version], macOS [add version]
+- Tested on: Ubuntu lab computer, macOS 
 
 ## Install and run
 1. In a terminal, from this folder: `./run_tracker.sh`
